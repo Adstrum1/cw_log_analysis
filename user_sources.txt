@@ -1,0 +1,5 @@
+/var/log/kern.log
+/var/log/dmesg
+/var/log/auth.log
+/var/log/apt/
+/var/log/syslog
